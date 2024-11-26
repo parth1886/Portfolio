@@ -8,7 +8,7 @@
 ## 🛡️ **About Me:**
 - 🎓 **Education:** B.C.A. Graduate | Pursuing M.Sc. in Cybersecurity  
 - 🧑‍💻 **Specialties:** Networking, Penetration Testing, Bug Bounty, OSINT  
-- 📹 **Content Creator:** Cybersecurity tutorials on [s3cure83](https://www.youtube.com/channel/@Secure83)  
+- 📹 **Content Creator:** Cybersecurity tutorials on [s3cure83](https://www.youtube.com/@Secure83)  
 
 ---
 
@@ -54,10 +54,10 @@
 I create videos explaining cybersecurity concepts:
 - **DVWA Vulnerabilities:** SQL Injection, CSRF, and more.  
 - **OSINT Techniques:** Recon tools, search engine dorks, and social media investigations.  
-Check out my channel: [s3cure83](https://www.youtube.com/channel/@Secure83)
+Check out my channel: [s3cure83](https://www.youtube.com/@Secure83)
 
 ---
 
 ## 🌐 **Connect with Me:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/parth-virani-p9313515193)  
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red)](https://www.youtube.com/channel/@Secure83)  
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red)](https://www.youtube.com/@Secure83)  
